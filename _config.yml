@@ -1,3 +1,17 @@
-title: R.M. Rajesh
+title: "Rajesh's HomePage"
 #show_downloads: true
+title_separator          : "-"
+name                     : &name "R.M. Rajesh"
+description              : &description "personal description"
 theme: jekyll-theme-minimal
+
+author:
+  # Biographic information
+  avatar           : "RMR Photo1.jpg"
+  name             : "R.M. Rajesh"
+  pronouns         : # example: "she/her"  
+  bio              : "Data Science"
+  location         : "India-Chennai"
+  employer         : "Self-Employeed"
+  uri              : # URL
+  email            : "rm.rajesh.mkumar@gmail.com" 
